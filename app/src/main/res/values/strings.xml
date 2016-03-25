@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Showcase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at sem non arcu convallis mattis. Vivamus hendrerit posuere est dictum efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer id luctus urna, ut vehicula sapien. Nulla elementum felis ut nibh hendrerit bibendum. Maecenas efficitur neque tortor, lacinia malesuada libero hendrerit eget. Praesent sed varius urna, non ullamcorper leo. Quisque tristique aliquet sollicitudin. Aenean aliquet dignissim magna eget vestibulum. Ut egestas finibus diam, vitae sagittis ligula commodo non.
+
+Quisque sed neque bibendum, ullamcorper augue sit amet, accumsan quam. Suspendisse rutrum imperdiet magna, non ultricies nunc tincidunt suscipit. Aenean sollicitudin aliquam orci vel tempus. In hac habitasse platea dictumst. Sed sodales mollis nisl a mollis. Integer nec justo quis eros cursus facilisis. Curabitur eget nisi non mauris porta dignissim ut ut justo. Maecenas in gravida lorem. In blandit hendrerit ipsum, sit amet venenatis libero. Suspendisse ultrices ex at dictum semper. Fusce bibendum arcu imperdiet dui mollis vestibulum. Proin pulvinar sapien vitae arcu suscipit, nec bibendum felis lobortis. Suspendisse nec odio eget lacus euismod malesuada.
+
+Aliquam tortor mauris, porttitor quis massa non, interdum tincidunt magna. Donec tincidunt sapien lacus, eu finibus neque blandit at. Suspendisse eu elementum magna. Nunc aliquet velit nec scelerisque ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed vulputate mi rutrum erat consectetur, eu finibus nisi varius. Phasellus porttitor pellentesque vestibulum. Morbi fringilla, tellus sit amet lobortis vestibulum, diam sem laoreet velit, vitae tempus enim purus ut velit. Fusce cursus lacus ac libero luctus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nulla vel sem gravida ultricies. Etiam aliquet diam eget mi finibus, vel gravida lorem varius.
+
+Vivamus nisi turpis, ornare a auctor maximus, auctor a nisi. Nunc tempus urna commodo libero fringilla tempor. Mauris pharetra velit sapien, in blandit felis consequat ut. Quisque ex ante, viverra at rhoncus eget, ullamcorper viverra lectus. Praesent pellentesque ac purus eu aliquet. Pellentesque congue, dui pharetra dapibus feugiat, felis diam hendrerit mi, et eleifend ex elit at ante. Donec ornare euismod metus. Curabitur eleifend imperdiet neque, eget efficitur diam euismod at. Pellentesque volutpat pulvinar tortor nec aliquam.
+
+Vestibulum interdum dapibus efficitur. Aliquam condimentum volutpat finibus. Suspendisse diam nulla, blandit sed neque ut, suscipit mollis sem. Proin euismod, diam at accumsan efficitur, orci magna mollis ipsum, ac aliquam lectus justo quis justo. Sed aliquet tempus urna non egestas. Phasellus id risus sagittis, auctor elit nec, ultrices est. Integer volutpat non mi ut molestie. Aenean odio ligula, tincidunt dictum iaculis porta, volutpat quis erat.
+    </string>
+</resources>
